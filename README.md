@@ -1,4 +1,4 @@
-<h1 align="center">Oi, me chamo Júlia Donegá</h1>
+<h1 align="center">Oii!! Me chamo Júlia Donegá</h1>
 <h3 align="center">Uma apaixonada em tecnologia.💗👩🏻‍💻</h3>
 
 - 🌱 Estou aprendendo recentemente **python, javascript**
